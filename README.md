@@ -115,6 +115,7 @@ Video 2 'standing' Detection Success Rate: 100.0%
 ### Demo Video
 Check out the demo video here.
 
+
 ### Notes:
 The NVIDIA NEVA-22B API requires an active internet connection for processing.
 The system processes a maximum of 16 frames per video to optimize performance and accuracy.
