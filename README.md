@@ -99,7 +99,8 @@ Output:
 Video 1 'standing' Detection Success Rate: 0.0%
 Video 2 'standing' Detection Success Rate: 100.0%
 
-![example 1_sitting](https://github.com/user-attachments/assets/7496f170-a85b-48d9-b940-312b9f11b1fc)
+![standing_example2_](https://github.com/user-attachments/assets/b6e9b91d-647b-49f0-bc66-1eb4e33eab1b)
+
 ![standing_example2](https://github.com/user-attachments/assets/b471e9a7-815d-42bd-b7d9-2a03a10ec91a)
 
 
