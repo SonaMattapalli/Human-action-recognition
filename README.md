@@ -26,8 +26,8 @@ pip install moviepy pillow gradio requests
 
 
 ### Clone the repository to your local machine:
-git clone https://github.com/your-repo-name/action-detection-neva22.git
-cd action-detection-neva22
+git clone //your_repository_name//
+cd //directory_name//
 
 ### Replace the placeholder API key in the script with your actual NVIDIA NEVA API key:
 *API_KEY* = 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
