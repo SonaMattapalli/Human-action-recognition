@@ -106,6 +106,11 @@ Video 2 'standing' Detection Success Rate: 100.0%
 
 
 
+![image](https://github.com/user-attachments/assets/a79b7f5f-750d-4c65-9008-a0420311bb8a)
+
+
+
+
 ### Demo Video
 Check out the demo video here.
 
@@ -117,4 +122,4 @@ vbnet
 
 ### Key Highlights:
 •⁠  ⁠*Formatting*: Used appropriate Markdown syntax for headings, code blocks, images, and links.
-•⁠  ⁠*Clarity*: The README is structured clearly to guide users from
+•⁠  ⁠*Clarity*: The README is structured clearly to guide users from setup to usage, with a section for functions, API usage, and demo.
