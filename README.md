@@ -113,8 +113,7 @@ Video 2 'standing' Detection Success Rate: 100.0%
 
 
 ### Demo Video
-Check out the demo video here.
-
+Check out the demo video [here](https://youtu.be/FKfPl0KDKTQ)
 
 ### Notes:
 The NVIDIA NEVA-22B API requires an active internet connection for processing.
